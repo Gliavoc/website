@@ -3,6 +3,11 @@ body {
 	font-family: Tahoma, Geneva, sans-serif;
 }
 
+h1 {
+	color: indianred;
+	font-family: Courier, serif;
+}
+
 ul#list {
 	list-style-type: circle;
 }
