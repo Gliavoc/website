@@ -3,6 +3,10 @@ body {
 	font-family: Tahoma, Geneva, sans-serif;
 }
 
+ul#list {
+	list-style-type: circle;
+}
+
 ul#menu {
 	list-style-type: none;
 	margin: 0;
