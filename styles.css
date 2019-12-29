@@ -130,3 +130,22 @@ a:link, a:visited {
 a:hover, a:active {
 	background-color: #d57676;
 }
+
+p#info {
+	text-align: right;
+}
+
+pre#post {
+	margin: 1em 0 0.5em 0;
+	font-weight: normal;
+	position: relative;
+	text-shadow: 0 -1px rgba(0,0,0,0.6);
+	line-height: 40px;
+	background: white;
+	background: white;
+	border: 1px solid #fff;
+	padding: 5px 15px;
+	border-radius: 0 10px 0 10px;
+	box-shadow: inset 0 0 5px rgba(53,86,129, 0.5);
+	font-family: Tahoma, Geneva, sans-serif;
+}
