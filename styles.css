@@ -11,7 +11,7 @@ h1 {
 	font-size: 36px;
 	line-height: 40px;
 	padding: 15px 15px 15px;
-	color: #6B5B95;
+	color: ultraviolet;
 	box-shadow: 
 		inset 0 0 0 1px rgba(53,86,129, 0.4), 
 		inset 0 0 5px rgba(53,86,129, 0.5),
@@ -27,8 +27,8 @@ h2 {
 	text-shadow: 0 -1px rgba(0,0,0,0.6);
 	font-size: 28px;
 	line-height: 40px;
-	background: #6B5B95;
-	background: #6B5B95;
+	background: ultraviolet;
+	background: ultraviolet;
 	border: 1px solid #fff;
 	padding: 5px 15px;
 	color: white;
@@ -45,7 +45,7 @@ h3 {
 	text-shadow: 0 -1px 1px rgba(0,0,0,0.4);
 	font-size: 22px;
 	line-height: 40px;
-	color: #6B5B95;
+	color: ultraviolet;
 	text-transform: uppercase;
 	border-bottom: 1px solid rgba(53,86,129, 0.3);
 }
@@ -111,11 +111,11 @@ li#current a {
 	text-align: center;
 	padding: 5px 50px;
 	text-decoration: none;
-	background-color: #6B5B95;
+	background-color: ultraviolet;
 }
 
 li#current a:hover {
-	background-color: #6B5B95;
+	background-color: ultraviolet;
 }
 
 a:link, a:visited {
