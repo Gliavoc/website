@@ -1,5 +1,6 @@
 body {
 	background-color: ghostWhite;
+	background-image: url("images/background.png");
 	font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -29,7 +30,6 @@ h2 {
 	line-height: 40px;
 	background: #6B5B95;
 	background: #6B5B95;
-	border: 1px solid #fff;
 	padding: 5px 15px;
 	color: #fff;
 	border-radius: 0 10px 0 10px;
@@ -45,7 +45,7 @@ h3 {
 	text-shadow: 0 -1px 1px rgba(0,0,0,0.4);
 	font-size: 22px;
 	line-height: 40px;
-	color: #6B5B95;
+	color: #c0b4de;
 	text-transform: uppercase;
 	border-bottom: 1px solid rgba(53,86,129, 0.3);
 }
@@ -57,7 +57,7 @@ h4 {
 	position: relative;
 	font-size: 18px;
 	line-height: 20px;
-	color: #788699;
+	color: #c0b4de;
 	font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -72,6 +72,7 @@ h6 {
     font-size: 12px;
     line-height: 20px;
 }
+
 
 ul#list {
 	list-style-type: circle;
@@ -92,6 +93,7 @@ li#menu {
 li#menu a {
 	display: block;
 	color: white;
+	background-color: #6B5B95;
 	text-align: center;
 	padding: 5px 50px;
 	text-decoration: none;
@@ -111,7 +113,7 @@ li#current a {
 	text-align: center;
 	padding: 5px 50px;
 	text-decoration: none;
-	background-color: #6B5B95;
+	background-color: #53427a;
 }
 
 li#current a:hover {
@@ -131,12 +133,17 @@ a:hover, a:active {
 	background-color: #d57676;
 }
 
+p {
+	color: ghostwhite;
+}
+
 p#info {
 	text-align: right;
 }
 
 p#post {
 	margin: 1em 0 0.5em 0;
+	color: #6B5B95;
 	font-weight: normal;
 	position: relative;
 	text-shadow: 0 -1px rgba(0,0,0,0.6);
