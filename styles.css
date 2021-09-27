@@ -121,7 +121,7 @@ li#current a:hover {
 }
 
 a:link, a:visited {
-	background-color: gray;
+	background-color: #6B5B95;
 	color: white;
 	padding: 15px 50px;
 	text-align: center;
@@ -130,7 +130,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-	background-color: #d57676;
+	background-color: #53427a;
 }
 
 p {
