@@ -27,8 +27,8 @@ h2 {
 	text-shadow: 0 -1px rgba(0,0,0,0.6);
 	font-size: 28px;
 	line-height: 40px;
-	background: ultraviolet;
-	background: ultraviolet;
+	background: #6b5b95;
+	background: #6b5b95;
 	border: 1px solid #fff;
 	padding: 5px 15px;
 	color: white;
@@ -45,7 +45,7 @@ h3 {
 	text-shadow: 0 -1px 1px rgba(0,0,0,0.4);
 	font-size: 22px;
 	line-height: 40px;
-	color: ultraviolet;
+	color: #6b5b95;
 	text-transform: uppercase;
 	border-bottom: 1px solid rgba(53,86,129, 0.3);
 }
@@ -98,7 +98,7 @@ li#menu a {
 }
 
 li#menu a:hover {
-	background-color: #d57676;
+	background-color: #b976d6;
 }
 
 li#current {
@@ -111,11 +111,11 @@ li#current a {
 	text-align: center;
 	padding: 5px 50px;
 	text-decoration: none;
-	background-color: ultraviolet;
+	background-color: #6b5b95;
 }
 
 li#current a:hover {
-	background-color: ultraviolet;
+	background-color: #6b5b95;
 }
 
 a:link, a:visited {
@@ -128,7 +128,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-	background-color: #d57676;
+	background-color: #b976d6;
 }
 
 p#info {
