@@ -1,3 +1,5 @@
+Below is the readme from the original template used to create my website.
+
 # DEVELOPER PORTFOLIO
 
 A portfolio website template for campers
