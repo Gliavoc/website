@@ -175,6 +175,14 @@ nav ul li {
   height: 60%;
 }
 
+.art-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  height: 60%;
+}
+
 .projects-container {
   display: flex;
   align-items: center;
