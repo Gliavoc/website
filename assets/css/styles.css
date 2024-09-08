@@ -31,6 +31,16 @@ html {
 
 ul {
   list-style-type: none;
+  text-align: center;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 5px;
 }
 
 a {
@@ -170,7 +180,14 @@ nav ul li {
   margin-top: 2rem;
 }
 
+.projects p {
+  text-align: center;
+}
+
 .project-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 65%;
   height: 60%;
 }
@@ -194,6 +211,10 @@ nav ul li {
   margin-bottom: 1rem;
 }
 
+.projects-title h2 {
+  text-align: center;
+}
+
 .projects-container {
   text-align: center;
   width: 21.875rem;
@@ -210,6 +231,7 @@ nav ul li {
 
 .project-details {
   margin-bottom: var(--bottom-margin);
+  text-align: center;
 }
 
 .project-card {
@@ -369,6 +391,10 @@ footer {
   }
 
   .more-about h2 {
+    text-align: center;
+  }
+  
+  .more-about h3 {
     text-align: center;
   }
 
