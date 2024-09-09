@@ -409,6 +409,8 @@ footer {
   .project-container {
     width: 20.875rem;
     align-items: center;
+    margin: auto;
+    justify-content: center;
   }
 
   .contact-form-container {
